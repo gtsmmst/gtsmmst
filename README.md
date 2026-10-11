@@ -16,6 +16,7 @@ nothing is a proven money-making strategy.
 | [sports-prob-models](https://github.com/gtsmmst/sports-prob-models) | Probability models (CS2 round → map → series, football Poisson/xG) and sizing math (Kelly, arbitrage, hedging). Pure Python, 183 tests. |
 | [cs2-polymarket-latency-lab](https://github.com/gtsmmst/cs2-polymarket-latency-lab) | How fast do CS2 match events reach Polymarket prices? Go GOTV parser, CLOB websocket watcher, SQLite events bus, latency dashboards. |
 | [polymarket-news-terminal](https://github.com/gtsmmst/polymarket-news-terminal) | News → entity extraction → Polymarket market matching → opportunity score. FastAPI research terminal. |
+| [betting-strategy-research](https://github.com/gtsmmst/betting-strategy-research) | Research notebook: football and Polymarket strategy backtests as hypothesis → data → result → verdict write-ups. Most of them failed, on purpose kept. |
 | panda-trading-stack *(private)* | The live stack: odds dashboard, strategy lab with pre-registered paper strategies, execution bots, GitHub-driven deploys to a VPS. |
 
 ## Stack
